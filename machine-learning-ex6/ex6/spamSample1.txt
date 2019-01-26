@@ -1,0 +1,22 @@
+
+Hi @princejain1408,
+
+We're excited to let you know about a warm-and-fuzzy competition: PetFinder.my Adoption Prediction! Click the button below to learn more and get started.
+
+About the host:
+PetFinder.my has been Malaysia’s leading animal welfare platform since 2008, with a database of more than 150,000 animals. PetFinder collaborates closely with animal lovers, media, corporations, and global organizations to improve animal welfare.
+
+Competition Description:
+In this competition you will build a tool to predict the adoptability of pets. Specifically, PetFinder.my needs to know how quickly is a pet adopted over the course of 90 days based on a number of qualities. If successful, this tool will benefit shelters around the world, reducing animal suffering and euthanization.
+
+Prizes:
+$25,000 Total prize pool 
+
+Next important deadline:
+March 21, 2019 - Entry deadline. 
+
+
+Good luck,
+
+Phil Culliton
+Kaggle Data Scientist
